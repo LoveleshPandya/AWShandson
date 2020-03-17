@@ -3,8 +3,8 @@ import pickle
 import json, ast
 import botocore
 
-ACCESS_KEY = "AKIA4HCN45FCSQ7B6DDX"
-SECRET_KEY = "rv2OSJcY3RPwDs0YLO76qRlmu52kFpVb09+F5VDZ"
+ACCESS_KEY = "XXXXXXXXXXXXXXXXXXXX"
+SECRET_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # configure your ssm client here, such as AWS key or region
 session = boto3.Session(
      region_name="us-west-2",
